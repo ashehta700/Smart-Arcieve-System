@@ -1,4 +1,4 @@
-# Biblo Search Context (version2)
+# Smart Arcieve System (version2)
 
 Professional document search, OCR, embedding and chat system built with FastAPI, FAISS and Sentence-Transformers.
 
