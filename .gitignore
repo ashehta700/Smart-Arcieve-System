@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# IDE configs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Node modules (if any)
+node_modules/
+
+# Data and generated artifacts
+faiss_index.index
+metadata.sqlite
+uploads/
+
+# Large model or cache dirs
+*.ckpt
+*.pt
+
+# Logs
+*.log

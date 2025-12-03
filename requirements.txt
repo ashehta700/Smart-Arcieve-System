@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
+PyPDF2
+pdf2image
+pytesseract
+easyocr
+langdetect
+Pillow
+opencv-python
+docx2txt
+pyspellchecker
+httpx
+torch
